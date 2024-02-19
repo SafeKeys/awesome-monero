@@ -168,3 +168,14 @@ A curated list of awesome Monero libraries, tools, and resources.
 - [Cuprate](https://github.com/Cuprate/cuprate) - an upcoming experimental, modern & secure monero node. Written in Rust.
 - [wallet3](https://github.com/seraphis-migration/wallet3) - Info and discussions about a hypothetical full 'wallet2' rewrite from scratch 
 
+## Consider supporting us
+
+Any help will always be welcome to help us significantly improve all support for our community.
+
+### Litecoin
+ltc1qv3tzwuefhej5u4s0mn0pyf7jzvcsykp4m0jrhs
+
+### Monero
+4AzdLMtuRjAGKxrvZtbqGTZgo2Trh4xiFKSNmL76UkNKcECD1mp3bvLEhrJmpVmjbaKtRREfhPpCqBYxycxH1xzCHW2EJ6i
+
+
