@@ -8,6 +8,8 @@ A curated list of awesome Monero libraries, tools, and resources.
 ## Contents
 
 - [Resources](#resources)
+- [Books](#books)
+- [Newsletters](#newsletters)
 - [Wallets](#wallets)
 - [Libraries](#libraries)
 - [Docker](#docker)
