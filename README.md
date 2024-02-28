@@ -42,6 +42,11 @@ A curated list of awesome Monero libraries, tools, and resources.
 - [Mastering Monero](https://github.com/monerobook/monerobook) - "Mastering Monero: The future of private transactions" is your guide through the world of Monero, a leading cryptocurrency with a focus on private and censorship-resistant transactions. This book contains everything you need to know to start using Monero in your business or day-to-day life, even if you've never understood or interacted with cryptocurrencies before.
 - [monero-book](https://github.com/Cuprate/monero-book) - This book aims to document the Monero protocol. Currently, work is being done to document Monero's consensus rules. This being completed as a part of [Cuprate](https://github.com/Cuprate/cuprate), the Rust Monero node. ([Website](https://monero-book.cuprate.org/))
 
+### Newsletters
+
+- [Monero Observer](https://monero.observer) - Everything that moves in the Monero community.
+- [The Monero Standard](https://localmonero.co/nojs/the-monero-standard) - A weekly newsletter published by LocalMonero, covering news in the Monero community.
+
 ## Wallets
 
 ### Desktop Wallets
