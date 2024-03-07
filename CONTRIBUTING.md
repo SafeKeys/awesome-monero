@@ -6,4 +6,4 @@ Contributions welcome!
 4.  Commit your changes (git commit -m 'Description of a commit')
 5.  Push to the branch (git push origin your_branch_name)
 6.  Create a new Pull Request
-
+7.  Thank you!
