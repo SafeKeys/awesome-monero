@@ -18,6 +18,7 @@ A curated list of awesome Monero libraries, tools, and resources.
 - [Blockchain Explorers](#blockchain-explorers)
 - [Built with Monero](#build-with-monero)
 - [Mining](#mining)
+- [Mining Pools](#mining-pools)
 - [Decentralized Exchanges](#decentralized-exchanges)
 - [Atomic Swaps](#atomic-swaps)
 - [Integrations](#integrations)
@@ -133,7 +134,12 @@ A curated list of awesome Monero libraries, tools, and resources.
 - [XMRig Proxy](https://github.com/xmrig/xmrig-proxy) - Stratum proxy with Web interface, support for several backup pools, and more.
 - [Docker-XMRig](https://github.com/metal3d/docker-xmrig) - Xmrig containeried to mine monero cryptocurrency
 - [MoneroOS](https://github.com/4rkal/MoneroOS) - Plug and play monero mining archuseriso config
-- [XMRig for Android](https://github.com/XMRig-for-Android/xmrig-for-android) - ⛏ Mine Monero from your android device 
+- [XMRig for Android](https://github.com/XMRig-for-Android/xmrig-for-android) - ⛏ Mine Monero from your android device
+
+## Mining Pools
+
+- [MoneroOcean](https://moneroocean.stream) - Getting started is easy and this pool has a large and friendly community that are happy to help you. 
+- [unMineable](https://unmineable.com) - All you need to get started is your PC and a XMR address!.
 
 ## Decentralized Exchanges
 
