@@ -1,7 +1,7 @@
 # Awesome Monero Guide
 [![Awesome](https://awesome.re/badge.svg)](https://github.com/SafeKeys/awesome-monero)
 
-A curated list of awesome Monero libraries, tools, and resources.
+A curated list of awesome Monero libraries, tools, pools and resources.
 
 ![Monero Logo](https://www.getmonero.org/img/monero-logo.png)
 
