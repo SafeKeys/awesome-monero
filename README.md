@@ -99,7 +99,7 @@ A curated list of awesome Monero libraries, tools, pools and resources.
 - [Moneroblock Docker](https://github.com/sethforprivacy/moneroblock-docker) - A simple and straightforward Dockerized MoneroBlock built from source and exposing standard ports.
 
 ## Tools
-
+ 
 - [Monero Inflation Checker](https://github.com/DangerousFreedom1984/monero_inflation_checker) - Minimal Python tools and educational material for checking inflation in Monero. You can get more information at moneroinflation.com.
 - [Monero Vanity Address Generator](https://github.com/hinto-janai/monero-vanity) - Monero vanity address generator for CPUs
 - [monero-lws](https://github.com/vtnerd/monero-lws) - Monero Light Wallet Server (scans monero viewkeys and implements mymonero API)
