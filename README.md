@@ -19,6 +19,7 @@ A curated list of awesome Monero libraries, tools, pools and resources.
 - [Built with Monero](#build-with-monero)
 - [Mining](#mining)
 - [Mining Pools](#mining-pools)
+- [Centralized Exchanges](#centralized-exchanges)
 - [Decentralized Exchanges](#decentralized-exchanges)
 - [Atomic Swaps](#atomic-swaps)
 - [Integrations](#integrations)
@@ -140,6 +141,10 @@ A curated list of awesome Monero libraries, tools, pools and resources.
 
 - [MoneroOcean](https://moneroocean.stream) - Getting started is easy and this pool has a large and friendly community that are happy to help you. 
 - [unMineable](https://unmineable.com) - All you need to get started is your PC and a XMR address!.
+
+## Centralized Exchanges
+Only for Swaps:
+- [CoinEX](https://www.coinex.com/) ([Website](https://www.coinex.com/)) - A Centralized exchange network for trading Monero and other cryptocurrencies.
 
 ## Decentralized Exchanges
 
