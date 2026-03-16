@@ -166,6 +166,10 @@ Only for Swaps:
 
 ## Merchants
 
+### P2P Trading
+
+- [arnoldnakamura](https://arnoldnakamura.codeberg.page/) - Peer-to-peer XMR↔EUR trading service. Cash by Mail (EU-wide) and Face-to-Face (SW Germany). 683 trades, 454 partners, 100% feedback (prev. chingchongfalung on LocalMonero/AgoraDesk). Available via [RetosSwap](https://retoswap.com) and [DawnSwap](https://dawnswap.net). Contact: Telegram @arnoldnakamura.
+
 - [Monero Merchants](https://www.monerooutreach.org/stories/monero_merchants.html) - A list of merchants that accept Monero as payment.
 - [Monerica](https://github.com/monerica-project/monerica) ([Website](https://monerica.com/)) - A directory for a Monero circular economy
 - [Monero for Merchants](https://github.com/ASchmidt1024/monero-for-merchants-booklet) - A printable booklet to attract merchants to accept Monero (multiple languages!)
@@ -196,5 +200,3 @@ ltc1qv3tzwuefhej5u4s0mn0pyf7jzvcsykp4m0jrhs
 
 ### Monero
 4AzdLMtuRjAGKxrvZtbqGTZgo2Trh4xiFKSNmL76UkNKcECD1mp3bvLEhrJmpVmjbaKtRREfhPpCqBYxycxH1xzCHW2EJ6i
-
-
