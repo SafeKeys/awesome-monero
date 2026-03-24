@@ -145,6 +145,7 @@ A curated list of awesome Monero libraries, tools, pools and resources.
 ## Centralized Exchanges
 Only for Swaps:
 - [CoinEX](https://www.coinex.com/) ([Website](https://www.coinex.com/)) - A Centralized exchange network for trading Monero and other cryptocurrencies.
+- [BitcoinVN](https://bitcoinvn.io) ([Website](https://bitcoinvn.io)) - Non-custodial instant exchange supporting XMR — buy/sell Monero for fiat (VND) or swap crypto-to-XMR. Operating since 2014.
 
 ## Decentralized Exchanges
 
