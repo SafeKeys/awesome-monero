@@ -145,6 +145,7 @@ A curated list of awesome Monero libraries, tools, pools and resources.
 ## Centralized Exchanges
 Only for Swaps:
 - [CoinEX](https://www.coinex.com/) ([Website](https://www.coinex.com/)) - A Centralized exchange network for trading Monero and other cryptocurrencies.
+- [Swap.bz](https://swap.bz/) ([Website](https://swap.bz/)) - Instant no-account crypto swaps with native Monero support. Published 0.5% Standard / 1% Private fees; Telegram bot available.
 
 ## Decentralized Exchanges
 
