@@ -57,6 +57,7 @@ A curated list of awesome Monero libraries, tools, pools and resources.
 
 - [Monero GUI Wallet](https://getmonero.org/downloads/) - Official desktop wallet
 - [Feather Wallet](https://github.com/feather-wallet/feather) ([Website](https://featherwallet.org/)) - Lightweight desktop wallet
+- [Biscuit Wallet](https://github.com/BiscuitWallet/Biscuit) ([Website](https://biscuitwallet.com/)) - Desktop wallet built on Feather, with Bitcoin and Litecoin, swaps, BTC to XMR atomic swaps and Tor built in
 - [monero-wallet-generator](https://github.com/moneromooo-monero/monero-wallet-generator) - Self contained offline javacsript Monero wallet generator
 - [xmr.llcoins.net](https://xmr.llcoins.net) - Self contained online javacsript Monero wallet generator
 - [Cake Wallet](https://github.com/cake-tech/cake_wallet) - Popular iOS and Android wallet and desktop wallet
