@@ -168,6 +168,7 @@ Only for Swaps:
 
 - [Monero Merchants](https://www.monerooutreach.org/stories/monero_merchants.html) - A list of merchants that accept Monero as payment.
 - [Monerica](https://github.com/monerica-project/monerica) ([Website](https://monerica.com/)) - A directory for a Monero circular economy
+- [XMRList](https://xmrlist.com/) - Hand-reviewed directory of businesses that accept Monero, with user reviews and scam warnings.
 - [Monero for Merchants](https://github.com/ASchmidt1024/monero-for-merchants-booklet) - A printable booklet to attract merchants to accept Monero (multiple languages!)
 
 ## Point of Sale
